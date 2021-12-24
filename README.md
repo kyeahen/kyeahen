@@ -23,4 +23,4 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### 𝚂𝚘𝚕𝚟𝚎𝚍.𝚊𝚌
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bright19961)](https://solved.ac/bright19961)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bright19961)](https://solved.ac/bright19961)
